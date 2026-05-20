@@ -4,7 +4,7 @@ A análise mostra que a Botafogo SAF nunca operou como negócio autônomo. Por q
 ---
 *Para ler a tese central, vá ao Substack. Para a análise completa com premissas, ao PDF. Para testar cenários alternativos, à planilha.*
 ## Conteúdo do projeto
-📰 **[Versão resumida no Substack](LINK SUBSTACK)**
+📰 **[Versão resumida no Substack]([LINK SUBSTACK](https://substack.com/profile/258523613-vinicius-borges/note/c-262394148))**
 Versão executiva com a tese central, os principais números e as conclusões da análise.
 📄 **[Análise completa em PDF](./Botafogo_Analise_Completa.pdf)**
 Versão integral com:
