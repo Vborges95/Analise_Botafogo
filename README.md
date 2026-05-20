@@ -20,7 +20,7 @@ decidir aprofundar.
 
 Versão executiva com a tese central, os principais números e as conclusões da análise.
 
-📄 **[Análise completa em PDF](./Botafogo_Analise_Completa.pdf)**
+📄 **[Análise completa em PDF](./Botafogo_SAF.pdf)**
 Versão integral com:
 - decomposição dos balanços 2022–2025;
 - reconstrução do EBITDA recorrente puro nos quatro anos;
